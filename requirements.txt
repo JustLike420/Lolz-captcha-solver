@@ -1,0 +1,4 @@
+selenium-stealth
+selenium-wire
+beautifulsoup4
+lxml
